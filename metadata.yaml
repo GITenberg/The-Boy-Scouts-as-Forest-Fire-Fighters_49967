@@ -1,10 +1,16 @@
 _repo: The-Boy-Scouts-as-Forest-Fire-Fighters_49967
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49967-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaler, Robert
     gutenberg_agent_id: '4733'
     url: http://www.gutenberg.org/2009/agents/4733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49967#The-Boy-Scouts-as-Forest-Fire-Fighters
 gutenberg_issued: '2015-09-14'
 gutenberg_type: Text
 identifiers:
